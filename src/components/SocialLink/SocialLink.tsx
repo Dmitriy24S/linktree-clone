@@ -1,5 +1,5 @@
 import React from 'react'
-import GitHubIcon from '../svgs/GithubIcon'
+import GitHubIcon from '../svgs/GitHubIcon'
 import TwitterIcon from '../svgs/TwitterIcon'
 
 interface Props {

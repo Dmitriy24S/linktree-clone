@@ -2,8 +2,6 @@ import Head from 'next/head'
 import Image from 'next/image'
 import LinkCard from '../components/LinkCard/LinkCard'
 import SocialLink from '../components/SocialLink/SocialLink'
-import GitHubIcon from '../components/svgs/GithubIcon'
-import TwitterIcon from '../components/svgs/TwitterIcon'
 // import { Inter } from '@next/font/google'
 // const inter = Inter({ subsets: ['latin'] })
 import data from '../data/data.json'
