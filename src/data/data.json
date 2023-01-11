@@ -4,7 +4,11 @@
   "links": [
     { "title": "Personal Website", "url": "https://github.com/Dmitriy24S" },
     { "title": "GitHub", "url": "https://github.com/Dmitriy24S" },
-    { "title": "Twitter", "url": "https://twitter.com/DevilInside/" }
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/DevilInside/",
+      "image": "https://static-cdn.jtvnw.net/jtv_user_pictures/dmitriy24-profile_image-39b10075803cb5b5-70x70.png"
+    }
   ],
   "socials": [
     { "title": "Twitter", "url": "https://twitter.com/DevilInside/" },
