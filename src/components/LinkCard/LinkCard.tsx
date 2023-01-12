@@ -4,7 +4,7 @@ import React from 'react'
 interface Props {
   url: string
   title: string
-  image: string
+  image?: string
 }
 
 const LinkCard = ({ url, title, image }: Props) => {
