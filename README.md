@@ -1,6 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Linktree Clone
+
+![Design preview for Linktree Clone](./design-preview/design-preview.png)
+
+## Welcome
+
+Linktree Clone. Created with NextJS & TailwindCSS.
+
+[Live Demo](https://linktree-clone-navy.vercel.app/) 👈
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
